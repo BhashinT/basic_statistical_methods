@@ -1,2 +1,2 @@
-# basic_statistical_methods
+# Readme
 Basic Statistical methods pertaining to cosmological analyses.
